@@ -4,7 +4,10 @@ title{
     padding:4px;
 
 }
-
+body{
+    background-color:slategray;
+    padding:2px;
+}
 p{
     color:black;
     background-color:cornsilk;
